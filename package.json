@@ -18,7 +18,7 @@
   "license": "MIT",
   "scripts": {
     "build": "grunt build",
-    "check": "grunt default"
+    "test": "grunt default"
   },
   "main": "index.js",
   "dependencies": {},
@@ -31,7 +31,7 @@
     "grunt-jsonlint": "^1.0.4",
     "grunt-update-json": "^0.2.0",
     "load-grunt-config": "^0.16.0",
-    "lodash": "^3.5.0"
+    "lodash": "^4.17.11"
   },
   "keywords": [
     "security",
